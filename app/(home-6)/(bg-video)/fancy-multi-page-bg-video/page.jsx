@@ -1,8 +1,8 @@
 import Footer6 from "@/components/footers/Footer6";
 import Header6 from "@/components/headers/Header6";
-import Home6 from "@/components/homes/home-6";
-import Hero1 from "@/components/homes/home-6/heros/Hero1";
-import Hero3 from "@/components/homes/home-6/heros/Hero3";
+import Home6 from "@/components/home-6";
+import Hero1 from "@/components/home-6/heros/Hero1";
+import Hero3 from "@/components/home-6/heros/Hero3";
 import { fancyMultipage } from "@/data/menu";
 import Image from "next/image";
 
