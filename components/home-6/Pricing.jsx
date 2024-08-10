@@ -11,7 +11,7 @@ export default function Pricing() {
         <div className="col-md-8 offset-md-2 text-center">
           <h2 className="section-caption-fancy mb-20 mb-xs-10">Nos Tarifs</h2>
           <h3 className="section-title mb-0">
-          Bénéficiez de la puissance des services professionnels à un prix simple.
+            Bénéficiez de la puissance des services professionnels à un prix simple.
           </h3>
         </div>
       </div>
@@ -57,7 +57,7 @@ export default function Pricing() {
               </li>
             </ul>
             <div className="small text-gray mt-10">
-            Économisez jusqu'à <strong>15%</strong> avec le Plan Annuel.
+              Économisez jusqu&apos;à <strong>15%</strong> avec le Plan Annuel.
             </div>
           </div>
           {/* End Nav Tabs */}
@@ -114,7 +114,7 @@ export default function Pricing() {
                           </div>
                           <h4 className="pricing-title">{elm.title}</h4>
                           <div className="pricing-num">
-                            <sup >DA</sup>
+                            <sup>DA</sup>
                             {isYearly
                               ? Math.round((elm.price * 12 * 75) / 100)
                               : elm.price}
@@ -126,8 +126,7 @@ export default function Pricing() {
                             <ul className="pr-list">
                               {elm.features.map((elm, i) => (
                                 <li key={i}>
-                                  <i className="mi-check color-primary-1" /> 1
-                                  {elm}
+                                  <i className="mi-check color-primary-1" /> {elm}
                                 </li>
                               ))}
                               {elm.disabledFeatures?.map((elm, i) => (

@@ -25,9 +25,9 @@ export default function Hero1() {
                 </h2>*/} 
                 <h1 className="hs-title-10 mb-30">
                   <span className="wow charsAnimIn" data-splitting="chars">
-                  Votre allié {" "}
+                    Votre allié{" "}
                     <span className="mark-decoration-3-wrap color-secondary-1-white">
-                    technologique
+                      technologique
                       <b
                         className="mark-decoration-3 wow scalexIn"
                         data-wow-delay="1.1s"
@@ -42,7 +42,7 @@ export default function Hero1() {
                   data-wow-duration="1.2s"
                   data-wow-offset={0}
                 >
-                  - 24 ans d'expertise au service de votre entreprise. <br/>
+                  - 24 ans d&apos;expertise au service de votre entreprise. <br/>
                   - Sécurité garantie et confiance.<br/>
                   - Support et accompagnement sans faille.
                 </p>
@@ -89,13 +89,13 @@ export default function Hero1() {
                 <div className="position-relative mt-40 mb-20">
                  
 
-<Lottie
-      loop
-      animationData={animationData}
-      play
-      style={{ width: 1200, height: 600 }}
-      className="w-100"
-    />
+                  <Lottie
+                    loop
+                    animationData={animationData}
+                    play
+                    style={{ width: 1200, height: 600 }}
+                    className="w-100"
+                  />
 
                   {/* Decorative Waves */}
                   <div

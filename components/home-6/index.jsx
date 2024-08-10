@@ -26,17 +26,15 @@ export default function Home6({ onePage = false, dark = false }) {
             <div className="col-md-10 offset-md-1 col-lg-8 offset-lg-2 text-center">
               <h2 className="section-caption-fancy mb-20 mb-xs-10">About Us</h2>
               <h3 className="section-title mb-30 mb-xs-20 wow fadeInUp">
-              Présentation de l’entreprise
+                Présentation de l&apos;entreprise
               </h3>
               <p
                 className="section-descr mb-40 mb-sm-20 wow fadeInUp"
                 data-wow-delay="0.06s"
               >
-               Icosnet est un opérateur Télécom présent sur le marché algérien depuis 1999. <br/>
-
+                Icosnet est un opérateur Télécom présent sur le marché algérien depuis 1999. <br/>
                 Nous sommes le seul ISP privé du pays. En plus des services accès internet, nous proposons des services de communications unifiées, cyber sécurité et des solutions Cloud via nos Data Center basés en Algérie.
-
-Nous utilisons notre infrastructure pour fournir des solutions innovantes aux grands comptes locaux , PME et TPE ainsi qu’à nos clients internationaux.
+                Nous utilisons notre infrastructure pour fournir des solutions innovantes aux grands comptes locaux, PME et TPE ainsi qu&apos;à nos clients internationaux.
               </p>
               <div className="local-scroll wow fadeInUp" data-wow-delay="0.12s">
                 {onePage ? (
@@ -73,7 +71,7 @@ Nous utilisons notre infrastructure pour fournir des solutions innovantes aux gr
                       data-link-animate="y"
                     >
                       <span className="link-strong link-strong-unhovered">
-                      En savoir plus sur nous{" "}
+                        En savoir plus sur nous{" "}
                         <i
                           className="mi-arrow-right size-24"
                           aria-hidden="true"
@@ -116,7 +114,7 @@ Nous utilisons notre infrastructure pour fournir des solutions innovantes aux gr
                 nos Services
               </h2>
               <h3 className="section-title mb-0 mb-sm-20">
-              Nous fournissons l'ensemble &nbsp;des meilleures solutions numériques.
+                Nous fournissons l&apos;ensemble &nbsp;des meilleures solutions numériques.
               </h3>
             </div>
             <div className="col-md-4 col-lg-6 d-flex align-items-end">
@@ -199,10 +197,10 @@ Nous utilisons notre infrastructure pour fournir des solutions innovantes aux gr
           <div className="row mb-60 mb-sm-40">
             <div className="col-md-8 offset-md-2 text-center">
               <h2 className="section-caption-fancy mb-20 mb-xs-10">
-              Travaux Sélectionnés
+                Travaux Sélectionnés
               </h2>
               <h3 className="section-title mb-0">
-              Nous croyons en la réalisation du meilleur travail, et en étant les meilleurs avec qui travailler.
+                Nous croyons en la réalisation du meilleur travail, et en étant les meilleurs avec qui travailler.
               </h3>
             </div>
           </div>
