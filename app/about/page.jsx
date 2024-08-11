@@ -76,8 +76,8 @@ export default function FancyAboutPage() {
                       className="section-descr mb-40 mb-sm-20 wow fadeInUp"
                       data-wow-delay="0.06s"
                     >
-                      Although web design has a fairly recent history. It has
-                      become a large part of people&apos;'s everyday lives. It is hard
+                      Although web design has a fairly recent history, it has
+                      become a large part of people&apos;s everyday lives. It is hard
                       to imagine the Internet without animated graphics,
                       different styles of typography, background, videos and
                       music.
@@ -137,7 +137,7 @@ export default function FancyAboutPage() {
           <footer className="page-section footer bg-dark-1 light-content pb-30">
             <Footer6 />
           </footer>
-        </div>{" "}
+        </div>
       </div>
     </>
   );

@@ -57,7 +57,7 @@ export default function FancyContactPage() {
                       className="section-descr mb-0 wow fadeIn"
                       data-wow-delay="0.2s"
                     >
-                      Reach out and let&apos;'s bring your vision to life.
+                      Reach out and let&apos;s bring your vision to life.
                     </p>
                   </div>
                 </div>
@@ -103,7 +103,7 @@ export default function FancyContactPage() {
           <footer className="page-section footer bg-dark-1 light-content pb-30">
             <Footer6 />
           </footer>
-        </div>{" "}
+        </div>
       </div>
     </>
   );
