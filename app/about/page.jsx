@@ -77,7 +77,7 @@ export default function FancyAboutPage() {
                       data-wow-delay="0.06s"
                     >
                       Although web design has a fairly recent history. It has
-                      become a large part of people's everyday lives. It is hard
+                      become a large part of people&apos;'s everyday lives. It is hard
                       to imagine the Internet without animated graphics,
                       different styles of typography, background, videos and
                       music.

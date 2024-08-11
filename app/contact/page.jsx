@@ -57,7 +57,7 @@ export default function FancyContactPage() {
                       className="section-descr mb-0 wow fadeIn"
                       data-wow-delay="0.2s"
                     >
-                      Reach out and let's bring your vision to life.
+                      Reach out and let&apos;'s bring your vision to life.
                     </p>
                   </div>
                 </div>
